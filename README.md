@@ -26,7 +26,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://img.minearm.org/file/AgACAgUAAyEGAATK5g8QAAMNaT5H6qWsqmHe5Hmxdz7IP4S6a3oAAgQLaxvlvflV1GLHMMRy8KgBAAMCAAN5AAM2BA.jpg" width="100%">
+        <img src="img/老蒋.jpg" width="100%">
       </td>
       <td>
         <a href="https://github.com/Minearm-RPM">
