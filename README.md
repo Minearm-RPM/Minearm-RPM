@@ -14,6 +14,10 @@
   <a href="https://www.youtube.com/@Minearm-RPM">
     <img src="https://img.shields.io/badge/YouTube-Minearm--RPM-ff5555?style=for-the-badge&logo=youtube&logoColor=ff5555">
   </a>
+  
+<a href="https://www.minearm.org">
+  <img src="https://img.shields.io/badge/这是我的个人站点--Website-89b4fa?style=for-the-badge&logo=firefoxbrowser&logoColor=89b4fa">
+</a>
 
   <a href="https://space.bilibili.com/1279178840">
     <img src="https://img.shields.io/badge/BiliBili-Minearm--RPM-00a1d6?style=for-the-badge&logo=bilibili&logoColor=00a1d6">
@@ -22,7 +26,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://avatars.githubusercontent.com/u/178522272?v=4" width="100%">
+        <img src="https://img.minearm.org/file/AgACAgUAAyEGAATK5g8QAAMNaT5H6qWsqmHe5Hmxdz7IP4S6a3oAAgQLaxvlvflV1GLHMMRy8KgBAAMCAAN5AAM2BA.jpg" width="100%">
       </td>
       <td>
         <a href="https://github.com/Minearm-RPM">
