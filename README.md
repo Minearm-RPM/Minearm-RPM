@@ -4,9 +4,10 @@
   </a>
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/I just-code a bit-f38ba8?style=for-the-badge&logo=codeium&logoColor=f38ba8">
-  <img src="https://img.shields.io/badge/I like-quiet keyboards-fab387?style=for-the-badge&logo=mechanical-keyboard&logoColor=fab387">
-  <img src="https://img.shields.io/badge/System-Linux%20&amp;%20whatever%20works-74c7ec?style=for-the-badge&logo=linux&logoColor=7EB8E2">
+<img src="https://img.shields.io/badge/我就是-随便弄点小玩意-f38ba8?style=for-the-badge&logo=codeium&logoColor=f38ba8">
+<img src="https://img.shields.io/badge/键盘-我觉得敲着顺手就行-fab387?style=for-the-badge&logo=mechanical-keyboard&logoColor=fab387">
+<img src="https://img.shields.io/badge/比较擅长的系统--Linux-74c7ec?style=for-the-badge&logo=linux&logoColor=7EB8E2">
+
 
   <br/><br/>
 
