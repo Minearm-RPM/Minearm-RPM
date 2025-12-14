@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://github.com/Minearm-RPM">
+    <img src="https://img.shields.io/badge/Hey, I'm -Minearm--RPM-7EDA6D?style=for-the-badge&logo=starship&logoColor=7EDA6D" width="100%">
+  </a>
+  <br/><br/>
 
-<!--
-**Minearm-RPM/Minearm-RPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://img.shields.io/badge/I just-code a bit-f38ba8?style=for-the-badge&logo=codeium&logoColor=f38ba8">
+  <img src="https://img.shields.io/badge/I like-quiet keyboards-fab387?style=for-the-badge&logo=mechanical-keyboard&logoColor=fab387">
+  <img src="https://img.shields.io/badge/System-Linux%20&amp;%20whatever%20works-74c7ec?style=for-the-badge&logo=linux&logoColor=7EB8E2">
 
-Here are some ideas to get you started:
+  <br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.youtube.com/@Minearm-RPM">
+    <img src="https://img.shields.io/badge/YouTube-Minearm--RPM-ff5555?style=for-the-badge&logo=youtube&logoColor=ff5555">
+  </a>
+
+  <a href="https://space.bilibili.com/1279178840">
+    <img src="https://img.shields.io/badge/BiliBili-Minearm--RPM-00a1d6?style=for-the-badge&logo=bilibili&logoColor=00a1d6">
+  </a>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://avatars.githubusercontent.com/u/178522272?v=4" width="100%">
+      </td>
+      <td>
+        <a href="https://github.com/Minearm-RPM">
+          <img src="https://github-readme-stats.vercel.app/api?username=Minearm-RPM&show_icons=true&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" border="0" width="100%">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minearm-RPM&layout=donut&theme=catppuccin_mocha&langs_count=8" border="0" width="100%">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
