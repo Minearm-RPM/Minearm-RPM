@@ -30,8 +30,8 @@
       </td>
       <td>
         <a href="https://github.com/Minearm-RPM">
-          <img src="https://github-readme-stats.vercel.app/api?username=Minearm-RPM&show_icons=true&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" border="0" width="100%">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minearm-RPM&layout=donut&theme=catppuccin_mocha&langs_count=8" border="0" width="100%">
+          <img src="https://gh-stats.minearm.org/api?username=Minearm-RPM&show_icons=true&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" border="0" width="100%">
+          <img src="https://gh-stats.minearm.org/api/top-langs/?username=Minearm-RPM&layout=donut&theme=catppuccin_mocha&langs_count=8" border="0" width="100%">
         </a>
       </td>
     </tr>
