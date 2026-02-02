@@ -26,7 +26,7 @@
   <table>
     <tr>
       <td>
-        <img src="img/老蒋.jpg" width="125%">
+        <img src="img/老蒋.jpg">
       </td>
       <td>
         <a href="https://github.com/Minearm-RPM">
