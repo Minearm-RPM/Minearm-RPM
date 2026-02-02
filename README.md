@@ -4,7 +4,7 @@
   </a>
   <br/><br/>
 
-<img src="https://img.shields.io/badge/我就是-随便弄点小玩意-f38ba8?style=for-the-badge&logo=codeium&logoColor=f38ba8">
+<img src="https://img.shields.io/badge/我就是-随便整点小玩意-f38ba8?style=for-the-badge&logo=codeium&logoColor=f38ba8">
 <img src="https://img.shields.io/badge/键盘-我觉得敲着顺手就行-fab387?style=for-the-badge&logo=mechanical-keyboard&logoColor=fab387">
 <img src="https://img.shields.io/badge/比较擅长的系统--Linux-74c7ec?style=for-the-badge&logo=linux&logoColor=7EB8E2">
 
@@ -26,7 +26,7 @@
   <table>
     <tr>
       <td>
-        <img src="img/老蒋.jpg" width="100%">
+        <img src="img/老蒋.jpg" width="125%">
       </td>
       <td>
         <a href="https://github.com/Minearm-RPM">
